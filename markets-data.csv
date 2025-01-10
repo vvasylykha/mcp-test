@@ -1,0 +1,193 @@
+market_name;market_type;network_name;platform_name;apr_7d;apr_30d;tvl;risk_rate;category;12.06.2024
+USDT;Lending;Ethereum;Compound V3;12,33;10,36;6346902;Low Risk;stable;
+USDT;Lending;BNB Chain;Venus;13,86;11,25;41077021;Low Risk;stable;
+USDT;Lending;Optimism;Aave V3;13,97;11,71;1528962;Lower Risk;stable;
+USDC-USDT;Liquidity Pool;Arbitrum;Camelot V3;18,76;15,91;1732349;Higher Risk;stable;
+USDC;Vault;Base;Harvest Finance;20,98;18,53;4113502;High Risk;stable;
+USDC;Vault;Arbitrum;Solv;16,06;15,97;4684749;High Risk;stable;
+WETH-USDT;Liquidity Pool;Arbitrum;Uniswap V3;113,86;114,29;23913087;Low Risk;blue chip;
+WBTC-USDT;Liquidity Pool;Arbitrum;Uniswap V3;54,72;72,30;10505942;Low Risk;blue chip;
+USDC-WETH;Liquidity Pool;Optimism;Uniswap V3;113,22;122,53;3076728;Lower Risk;blue chip;
+WETH-USDC;Liquidity Pool;Base;Uniswap V3;98,13;97,09;18599542;Lower Risk;blue chip;
+WBTC-USDC;Liquidity Pool;Polygon;Uniswap V3;73,16;73,90;1016333;Lower Risk;blue chip;
+WETH-USDC;Liquidity Pool;Arbitrum;Camelot V3;97,81;113,35;4740519;Higher Risk;blue chip;
+USDC-WLD;Liquidity Pool;Optimism;Uniswap V3;285,72;257,95;1583502;Medium Risk;
+USDC-OP;Liquidity Pool;Optimism;Uniswap V3;196,33;210,49;2426387;Medium Risk;high apr;
+PENDLE-USDT;Liquidity Pool;Arbitrum;Uniswap V3;235,44;243,87;1611187;Medium Risk;high apr;
+RNDR-WETH;Liquidity Pool;Ethereum;Uniswap V3;253,53;241,80;841796;Higher Risk;high apr;
+MPL-WETH;Liquidity Pool;Ethereum;Uniswap V3;365,20;321,51;778419;High Risk;
+WETH-KLIMA;Vault;Base;Extra Finance;660,26;420,47;2707382;High Risk;
+WAVAX-USDC;LP;Avalanche;Beefy;2648.14;3917.26;733505;High Risk;high apr
+OHMFRAXBP-F;LP;Ethereum;Yearn Finance;2524.67;30992.77;607213;High Risk;high apr
+WETH-TRUMP;LP;Ethereum;Uniswap V2;1208.02;845.51;509575;High Risk;high apr
+CHAOS-WETH;LP;Base;Uniswap V3;1022.14;1090.09;2168235;High Risk;high apr
+WETH-KLIMA;LP;Base;Extra Finance;922.82;526.38;2704230;High Risk;high apr
+ACX-WETH;LP;Ethereum;Uniswap V3;853.26;268.38;3521576;High Risk;high apr
+LINK-WETH;LP;Arbitrum;Beefy;825.24;391.81;764026;Medium Risk;high apr
+SPX-WETH;LP;Ethereum;Uniswap V2;817.11;626.27;605392;High Risk;high apr
+NEIRO-WETH;LP;Ethereum;Uniswap V2;789.00;518.41;596956;High Risk;high apr
+SIMMI-WETH;LP;Base;Uniswap V3;773.50;930.81;2517240;High Risk;high apr
+TRUMP-WETH;LP;Ethereum;Uniswap V2;768.44;520.64;518466;High Risk;high apr
+BOME-WETH;LP;Ethereum;Uniswap V2;723.32;655.85;722454;High Risk;high apr
+MSTR-WETH;LP;Ethereum;Uniswap V2;706.89;822.86;721487;High Risk;high apr
+WETH-AIXBT;LP;Base;Uniswap V3;697.14;1106.91;537127;High Risk;high apr
+CLANKFUN-WETH;LP;Base;Uniswap V3;694.26;615.16;675444;High Risk;high apr
+WETH-MAGA;LP;Ethereum;Uniswap V2;645.06;493.27;672565;High Risk;high apr
+JASMY-WETH;LP;Ethereum;Uniswap V3;631.43;355.80;1419084;High Risk;high apr
+DARAM-WETH;LP;Ethereum;Uniswap V2;614.93;540.45;678753;High Risk;high apr
+LUM-WETH;LP;Base;Uniswap V3;609.00;637.67;1631365;High Risk;high apr
+WAVAX-USDC;LP;Avalanche;Joe V2.1;570.46;596.73;4833425;Medium Risk;high apr
+POPCAT-WETH;LP;Ethereum;Uniswap V2;557.94;507.58;524194;High Risk;high apr
+MEME-WETH;LP;Ethereum;Uniswap V2;532.22;484.26;986957;High Risk;high apr
+VIRTUAL-WETH;LP;Ethereum;Uniswap V3;526.05;642.54;1151642;High Risk;high apr
+WETH-DSYNC;LP;Ethereum;Uniswap V3;522.12;613.54;1022170;High Risk;high apr
+DOGS-WETH;LP;Ethereum;Uniswap V2;513.85;503.02;771919;High Risk;high apr
+VIRTUAL-WETH;LP;Base;Uniswap V3;504.21;1180.48;2745606;High Risk;high apr
+CPOOL-USDC;LP;Ethereum;Uniswap V3;419.24;205.80;856974;High Risk;high apr
+AUSD-WAVAX;LP;Avalanche;Joe V2.1;371.48;399.14;982361;High Risk;high apr
+MOG-WETH;LP;Base;Uniswap V3;364.79;286.65;647107;High Risk;high apr
+MOODENG-WETH;LP;Ethereum;Uniswap V2;332.41;592.79;523126;High Risk;high apr
+GDUPI-WETH;LP;Base;Uniswap V3;320.41;467.36;945585;High Risk;high apr
+WMATIC-WETH;LP;Polygon;Gamma;320.34;288.63;2189729;Medium Risk;high apr
+TURBO-WETH;LP;Ethereum;Uniswap V3;309.17;201.13;1688668;No Risk Found;high apr
+SAI-WETH;LP;Ethereum;Uniswap V2;297.63;90.14;638701;High Risk;high apr
+XEN-WETH;LP;Ethereum;Uniswap V3;297.11;186.32;814409;High Risk;high apr
+PEPE-WETH;LP;Arbitrum;Uniswap V3;283.27;394.83;574678;High Risk;high apr
+ANON-WETH;LP;Base;Uniswap V3;283.10;552.72;1039482;High Risk;high apr
+ZRO-WETH;LP;Arbitrum;Camelot V3;276.23;236.86;532748;High Risk;high apr
+EDGE-WETH;LP;Ethereum;Uniswap V3;271.07;131.28;1227104;High Risk;high apr
+MAGIC-WETH;LP;Arbitrum;Beefy;264.13;282.00;776380;High Risk;high apr
+DAI-RUNE;LP;Ethereum;Thorchain;263.48;387.18;1311670;High Risk;high apr
+WETH-USDC;LP;Arbitrum;Beefy;259.50;215.52;2681718;Medium Risk;high apr
+KARRAT-WETH;LP;Ethereum;Uniswap V3;258.14;236.63;714199;High Risk;high apr
+DOGE-WETH;LP;Ethereum;Uniswap V3;253.83;637.12;1122648;High Risk;high apr
+PORTAL-WETH;LP;Ethereum;Uniswap V3;245.35;218.03;773824;No Risk Found;high apr
+PENDLE-USDT;LP;Arbitrum;Uniswap V3;240.52;241.26;1954102;No Risk Found;high apr
+WETH-GMX;LP;Arbitrum;Camelot V3;236.60;168.71;1127720;Medium Risk;high apr
+WETH-ARB;LP;Arbitrum;Beefy;233.95;288.64;687855;Medium Risk;high apr
+FI-WETH;LP;Ethereum;Uniswap V3;232.71;208.08;697380;High Risk;high apr
+WETH-KEYCAT;LP;Base;Uniswap V3;231.29;196.59;588935;High Risk;high apr
+UNI-LINK;LP;Ethereum;Uniswap V3;226.08;238.55;504839;Medium Risk;high apr
+LCX-WETH;LP;Ethereum;Uniswap V3;223.92;227.30;832241;No Risk Found;high apr
+WQUIL-USDT;LP;Ethereum;Uniswap V3;213.94;319.56;530716;High Risk;high apr
+WETH-LINK;LP;Arbitrum;Camelot V3;207.04;139.38;1318799;Medium Risk;high apr
+SHRUB-WETH;LP;Ethereum;Uniswap V3;197.06;541.97;938824;High Risk;high apr
+ARB-USDC;LP;Arbitrum;Camelot V3;196.23;231.38;1471643;Medium Risk;high apr
+WETH-USDC;LP;Base;Beefy;194.75;186.05;2111753;Medium Risk;high apr
+WETH-GMX;LP;Arbitrum;Uniswap V3;187.70;122.59;2107664;Medium Risk;high apr
+COSMIC-WETH;LP;Ethereum;Uniswap V3;186.48;267.76;808545;High Risk;high apr
+WPLS-WETH;LP;Ethereum;Uniswap V3;185.17;216.32;523900;High Risk;high apr
+CRO-WETH;LP;Ethereum;Uniswap V3;184.90;308.19;1361160;Medium Risk;high apr
+USDC-PTF;LP;Ethereum;Uniswap V3;181.94;180.34;1430383;High Risk;high apr
+ARB-USDC.E;LP;Arbitrum;Uniswap V3;179.41;207.91;2154513;Low Risk;high apr
+TORN-WETH;LP;Ethereum;Uniswap V3;170.64;188.70;805594;High Risk;high apr
+WETH-USDC;LP;Arbitrum;Gamma;136.51;152.58;794214;Medium Risk;high apr
+PEPE-USDC;LP;Ethereum;Uniswap V3;104.84;177.22;519842;Medium Risk;high apr
+WETH-CIRCLE;LP;Base;Uniswap V3;99.43;63.55;804484;High Risk;high apr
+APE-WETH;LP;Arbitrum;Camelot V3;99.07;264.39;810151;High Risk;high apr
+UNI-LINK;LP;Ethereum;Uniswap V3;95.37;28.64;1240338;Medium Risk;high apr
+BABYDOGE-WETH;LP;Ethereum;Uniswap V3;93.91;42.93;3913697;Medium Risk;high apr
+WETH-USDC;LP;Arbitrum;Beefy;79.69;47.86;1348432;Medium Risk;high apr
+XSGD-WAVAX;LP;Avalanche;Joe V2.1;75.14;90.31;1656904;High Risk;high apr
+CELL-WETH;LP;Ethereum;Uniswap V2;68.04;35.47;733188;High Risk;high apr
+MSTETH-WSTETH;LP;Ethereum;Curve DEX;34.00;5.57;719430;High Risk;high apr
+WAVAX-USDC;LP;Avalanche;Joe V2.1;566.09;597.71;4863753;High Risk;blue chip
+BTC.B-WAVAX;LP;Avalanche;Joe V2.1;464.90;533.11;2867987;High Risk;blue chip
+WMATIC-WETH;LP;Polygon;Gamma;320.34;288.82;2195251;High Risk;blue chip
+WETH-USDC;LP;Arbitrum;Beefy;264.09;216.17;2681718;Medium Risk;blue chip
+WETH-LINK;LP;Arbitrum;Camelot V3;206.71;139.77;1313967;Medium Risk;blue chip
+ARB-USDC;LP;Arbitrum;Camelot V3;197.32;231.63;1478780;Medium Risk;blue chip
+WETH-USDC;LP;Base;Beefy;191.80;186.33;2111753;Medium Risk;blue chip
+ARB-USDC.E;LP;Arbitrum;Uniswap V3;179.41;208.10;2154513;High Risk;blue chip
+USDC-OP;LP;Optimism;Uniswap V3;166.13;219.51;2198617;High Risk;blue chip
+WETH-LINK;LP;Arbitrum;Uniswap V3;162.29;108.29;5266611;Low Risk;blue chip
+WETH-ARB;LP;Arbitrum;Camelot V3;128.74;171.41;1949225;Medium Risk;blue chip
+LINK-WETH;LP;Polygon;Uniswap V3;128.42;97.80;1972616;Medium Risk;blue chip
+WETH-USDC;LP;Arbitrum;Joe V2.1;123.00;118.22;1928202;High Risk;blue chip
+WMATIC-USDT;LP;Polygon;Uniswap V3;120.19;123.81;1383368;High Risk;blue chip
+USDT-WBNB;LP;BSC;Uniswap V3;114.84;92.95;1716012;High Risk;blue chip
+BTC.B-USDC;LP;Avalanche;Joe V2.1;114.38;102.75;1492934;High Risk;blue chip
+WETH-USDC;LP;Arbitrum;Camelot V3;114.17;114.54;3922080;Medium Risk;blue chip
+WETH-USDC;LP;Base;GammaSwap;112.30;77.05;1540826;High Risk;blue chip
+USDC-WETH;LP;Optimism;Uniswap V3;106.85;120.50;3369377;High Risk;blue chip
+WETH-ARB;LP;Arbitrum;Uniswap V3;104.56;112.59;12959426;High Risk;blue chip
+LINK-WETH;LP;Ethereum;Uniswap V3;101.18;78.41;37540186;Medium Risk;blue chip
+WETH-DAI;LP;Arbitrum;Uniswap V3;99.83;108.79;1409642;Medium Risk;blue chip
+WETH-USDT;LP;Arbitrum;Uniswap V3;98.32;115.01;21207324;High Risk;blue chip
+WETH-USDC;LP;Arbitrum;Uniswap V3;97.47;108.67;58341505;High Risk;blue chip
+WETH-USDT;LP;Ethereum;Uniswap V3;95.19;74.36;11672743;High Risk;blue chip
+WETH-USDT;LP;Arbitrum;Uniswap V3;88.32;87.71;1141943;High Risk;blue chip
+WETH-OP;LP;Optimism;Uniswap V3;85.30;87.79;1889871;High Risk;blue chip
+USDC-WETH;LP;Polygon;Uniswap V3;85.02;100.71;1370020;High Risk;blue chip
+USDC-WETH;LP;Ethereum;Uniswap V3;84.55;87.72;3429400;High Risk;blue chip
+WETH-USDC;LP;Base;Uniswap V3;84.33;91.28;18877464;High Risk;blue chip
+WETH-USDT;LP;Polygon;Uniswap V3;84.16;89.25;1912328;High Risk;blue chip
+WETH-USDT;LP;Ethereum;Uniswap V3;75.11;86.86;64519623;High Risk;blue chip
+WETH-USDC;LP;Arbitrum;Beefy;74.65;48.08;1348432;Medium Risk;blue chip
+WAVAX-USDC;LP;Avalanche;Uniswap V3;73.26;82.09;7911364;High Risk;blue chip
+WMATIC-USDC;LP;Polygon;Uniswap V3;71.44;71.49;2405342;High Risk;blue chip
+USDC-WETH;LP;Polygon;Uniswap V3;68.91;66.31;3247021;High Risk;blue chip
+DAI-WETH;LP;Ethereum;Uniswap V3;59.46;23.29;4728424;Medium Risk;blue chip
+USDC;Lending;Base;Avantis;25.07;65.73;7594188;High Risk;stable;
+USDC;Lending;Base;Avantis;22.65;90.03;4493697;High Risk;stable;
+USDC;Lending;Base;Harvest Finance;20.93;19.98;4025597;High Risk;stable;
+USDC;Lending;Ethereum;IPOR Fusion;20.50;15.85;1139111;High Risk;stable;
+USDT;Lending;Ethereum;Morpho Aave;19.28;29.48;2850808;High Risk;stable;
+USDC;Lending;Base;Gains Network;17.69;14.74;1794969;High Risk;stable;
+USDC;Lending;Base;Beefy;16.94;11.44;6563762;Medium Risk;stable;
+USDC;Lending;Ethereum;Vesper;15.91;18.11;2021137;High Risk;stable;
+USDC;Lending;Avalanche;Yield Yak Aggregator;15.69;11.29;1209026;High Risk;stable;
+USDC;Lending;Ethereum;Harvest Finance;15.64;14.09;1281921;High Risk;stable;
+USDC;Lending;Arbitrum;Solv Funds;15.47;15.88;4695534;High Risk;stable;
+USDC;Lending;Arbitrum;Beefy;15.36;12.62;4873110;High Risk;stable;
+USDC;Lending;Base;IPOR Fusion;14.95;14.11;1183764;High Risk;stable;
+DAI;Lending;Ethereum;Compound V2;14.86;9.44;2804675;Medium Risk;stable;
+USDC;Lending;Base;Seamless Protocol;14.83;12.00;2305791;High Risk;stable;
+USDC;Lending;Arbitrum;IPOR Fusion;14.72;12.86;1030906;High Risk;stable;
+USDC;Lending;Ethereum;Morpho Aave;14.70;15.77;2053754;High Risk;stable;
+USDT;Lending;Polygon;Azuro;14.64;14.64;5159503;High Risk;stable;
+USDT;Lending;Optimism;Beefy;14.45;11.08;4081332;Medium Risk;stable;
+USDC;Lending;Ethereum;AAVE V3;13.89;9.81;148823021;High Risk;stable;
+USDT;Lending;BSC;Venus Core Pool;13.71;11.85;61617138;High Risk;stable;
+USDC;Lending;BSC;Venus Core Pool;13.48;11.10;19531369;Low Risk;stable;
+USDC;Lending;Optimism;AAVE V3;13.44;10.68;3967582;High Risk;stable;
+DAI;Lending;Ethereum;AAVE V3;13.43;9.26;12857994;High Risk;stable;
+USDT;Lending;Avalanche;Yield Yak Aggregator;13.19;11.06;1664329;High Risk;stable;
+USDC;Lending;Ethereum;Yearn Finance;13.08;11.35;1332591;Medium Risk;stable;
+DAI;Lending;Ethereum;Yearn Finance;12.94;11.47;2538134;Medium Risk;stable;
+USDT;Lending;Ethereum;Yearn Finance;12.87;11.41;2113955;Medium Risk;stable;
+USDC;Lending;Ethereum;Spark;12.85;9.94;1971453;High Risk;stable;
+USDT;Lending;Optimism;AAVE V3;12.70;12.16;1742903;Medium Risk;stable;
+USDT;Lending;Ethereum;Yearn Finance;12.56;7.78;6574559;High Risk;stable;
+USDC;Lending;Arbitrum;AAVE V3;12.53;10.69;24751979;High Risk;stable;
+USDC;Lending;Ethereum;Yearn Finance;12.31;11.31;3685601;High Risk;stable;
+USDC;Lending;Optimism;Beefy;12.08;10.17;4837624;Medium Risk;stable;
+USDT;Lending;Polygon;AAVE V3;12.06;9.63;4693459;High Risk;stable;
+USDT;Lending;Arbitrum;AAVE V3;11.88;10.98;11212041;High Risk;stable;
+USDT;Lending;Ethereum;Thorchain;11.74;15.30;7809766;Medium Risk;stable;
+USDC;Lending;Arbitrum;Beefy;11.67;8.44;1072881;High Risk;stable;
+USDC;Lending;Arbitrum;Gains Network;11.29;11.01;9749154;High Risk;stable;
+USDC;Lending;Ethereum;Thorchain;11.24;13.95;4502593;High Risk;stable;
+USDT;Lending;Ethereum;Compound V2;11.23;7.89;13435953;Low Risk;stable;
+USDT;Lending;Ethereum;AAVE V3;11.08;8.63;193034524;High Risk;stable;
+USDC;Lending;Base;AAVE V3;11.06;10.58;9100924;High Risk;stable;
+USDC;Lending;Ethereum;Fractal Protocol;11.00;11.00;3350771;High Risk;stable;
+USDT;Lending;Ethereum;Yearn Finance;10.99;8.56;4485422;Medium Risk;stable;
+USDC;Lending;Polygon;AAVE V3;10.48;9.37;4267362;High Risk;stable;
+DAI;Lending;Ethereum;Spark;9.96;7.73;111803831;High Risk;stable;
+USDC;Lending;Ethereum;Goldfinch;9.93;9.93;48513820;High Risk;stable;
+DAI;Lending;Ethereum;MakerDAO;9.79;7.48;1076603805;Low Risk;stable;
+USDC;Lending;Ethereum;Compound V2;7.85;5.08;5039360;Low Risk;stable;
+USDC;Lending;Ethereum;Yearn Finance;7.83;6.49;10507993;Medium Risk;stable;
+USDT;Lending;BSC;AAVE V3;7.75;9.09;2338460;High Risk;stable;
+USDC;Lending;Arbitrum;Solv Funds;7.15;7.32;3160046;High Risk;stable;
+USDT;Lending;BSC;KiloEx;6.26;5.10;1321352;High Risk;stable;
+DAI;Lending;Polygon;Gains Network;5.91;7.31;1102691;High Risk;stable;
+DAI;Lending;Ethereum;Yearn Finance;5.29;5.65;17781302;Medium Risk;stable;
+USDT;Lending;Arbitrum;Solv Funds;4.81;4.78;1047749;Medium Risk;stable;
+USDT;Lending;Ethereum;Flux Finance;4.77;4.76;1354503;High Risk;stable;
+USDT;Lending;BSC;Alpaca Leveraged YF;4.51;3.70;4135514;High Risk;stable;
+USDC;Lending;Ethereum;AAVE V2;4.47;4.18;4212588;High Risk;stable;
+USDC;Lending;Ethereum;Flux Finance;4.42;4.44;1037241;High Risk;stable;
+USDT;Lending;Ethereum;Yearn Finance;4.40;4.16;6414145;Medium Risk;stable;
+DAI;Lending;Ethereum;AAVE V2;4.25;3.82;3037939;Medium Risk;stable;
